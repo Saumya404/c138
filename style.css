@@ -1,0 +1,30 @@
+body
+{
+background-size:cover;
+background-position: center;
+}
+
+h1{
+    margin-top: 0%;
+    text-align: center;
+    color: aliceblue;
+    font-size:100px ;
+    text-shadow: 7px 5px 7px black;
+    display:inline;
+}
+
+.heading{
+  
+font-size: 30px;
+float: right;
+ border-radius: 20px;
+    
+}
+ 
+#start{
+    font-size:20px ;
+}
+
+#logo{
+    width: 11%;
+}
